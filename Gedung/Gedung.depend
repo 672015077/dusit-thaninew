@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595507556 source:c:\users\flame\documents\grafkom\hana\gedung\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<math.h>
+
+1594537092 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
